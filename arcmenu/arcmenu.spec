@@ -18,6 +18,7 @@ BuildRequires:	git
 BuildRequires:	glib2
 BuildRequires:	gettext
 BuildRequires:  make
+BuildRequires:  glib2-devel
 
 Requires:	gnome-shell-extension-common
 Requires:	gnome-menus
