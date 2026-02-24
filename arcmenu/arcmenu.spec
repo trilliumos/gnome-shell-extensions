@@ -4,15 +4,12 @@
 
 Summary:	Gnome shell extension designed to replace the standard menu
 Name:		gnome-shell-extension-arcmenu
-Version:	67.2
-Release:	2%{dist}
+Version:	68.0
+Release:	1%{dist}
 
 License:	GPLv2
 URL:		https://gitlab.com/arcmenu/ArcMenu/
 Source0:	https://gitlab.com/arcmenu/ArcMenu/-/archive/v%{version}/ArcMenu-v%{version}.tar.bz2
-Patch0:		0001-Customize-Arc-Menu.patch
-Patch1:		0002-Added-MSVSphere-symbolic-icon.patch
-Patch2:		0003-Read-system-name-from-MSVSPHERE_PRETTY_NAME.patch
 
 BuildArch:	noarch
 
